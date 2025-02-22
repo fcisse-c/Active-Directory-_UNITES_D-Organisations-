@@ -25,7 +25,7 @@
 
 1. Toujours dans l'OU `Wilders_students`, faites un clic droit sur `Wilders_students`, sélectionnez **Nouveau** > **Utilisateur**.
 2. Remplissez les informations de l'utilisateur :
-    - **Prénom** : John
+    - **Prénom** : Sara
     - **Nom** : Doe
     - **Nom d'ouverture de session de l'utilisateur** : jdoe
 3. Cliquez sur **Suivant**.
